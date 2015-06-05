@@ -15,17 +15,13 @@
 /log/*
 !/log/.keep
 /tmp
-<<<<<<< HEAD
 
 # Игнорирование прочих ненужных файлов.
-# database.yml
-# doc/
-# *.swp
-# *~
-# .project
-# .DS_Store
-# .idea
-# .secret
-#
-=======
->>>>>>> d03d484147cd17ecac6202b7135a0215b8f59465
+ database.yml
+ doc/
+ *.swp
+ *~
+ .project
+ .DS_Store
+ .idea
+ .secret
